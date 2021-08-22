@@ -1,0 +1,54 @@
+.cart-image-container > img {
+    height: 300px;
+    width: 300px;
+}
+
+.cart-container {
+    background-color: #f6f6f6;
+    color: black;
+}
+
+.pincode-input {
+    outline-color: red;
+    border-color: red;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pincode-button {
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 40px;
+    outline: none;
+}
+
+.color-select-box {
+    background-color: white;
+    cursor: pointer;
+    outline-color: red;
+}
+
+.add-to-cart {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+    width: 250px;
+    height: 50px;
+}
+
+.description-image-1 {
+    position: relative;
+}
+
+.description-text-1 {
+    position: absolute;
+    margin-top: 250px;
+}
+
+.description-text-1 > span {
+    text-decoration: underline;
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.footer-item-container > span {
+    margin-top :10px;
+    color: #828282;
+    cursor: pointer;
+}
+
+.footer-item-container > span:hover {
+    color: black;
+}
